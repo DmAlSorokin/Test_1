@@ -1,4 +1,4 @@
-# Test_1
+# Rep_1.0
 Educational project
 echo "# Test_1" >> README.md
 git init
