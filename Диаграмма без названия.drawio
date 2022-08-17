@@ -1,1 +1,164 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T07:57:11.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.4" etag="B9vBmD5Xa_WIx8vRrWK7" type="github"><diagram id="C1agG_PiqHZe49vuLrwm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-17T11:39:30.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="D1qHkiFidzw0wN9cnGJj" version="20.2.4" type="github" pages="3">
+  <diagram id="C1agG_PiqHZe49vuLrwm" name="Общая структура систем">
+    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="amfDj-KN_tgIPYr-u7H--1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="710" width="384" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="amfDj-KN_tgIPYr-u7H--2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;Системы создания&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="142" y="714" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amfDj-KN_tgIPYr-u7H--3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="760" width="150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="amfDj-KN_tgIPYr-u7H--4" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;a href=&quot;https://viewer.diagrams.net/?page-id=4Nm4sYpa5sEPBKx6ehOG&amp;amp;highlight=0000ff&amp;amp;edit=_blank&amp;amp;layers=1&amp;amp;nav=1&amp;amp;page-id=4Nm4sYpa5sEPBKx6ehOG#HDmAlSorokin%2FTest_1%2Fmaster%2F%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(248, 249, 250); float: none; display: inline !important;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;a href=&quot;https://viewer.diagrams.net/?page-id=4Nm4sYpa5sEPBKx6ehOG&amp;amp;highlight=0000ff&amp;amp;edit=_blank&amp;amp;layers=1&amp;amp;nav=1&amp;amp;page-id=4Nm4sYpa5sEPBKx6ehOG#HDmAlSorokin%2FTest_1%2Fmaster%2F%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio&quot;&gt;Проектная система&lt;/a&gt;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="69" y="760" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="amfDj-KN_tgIPYr-u7H--5" value="Подсистема управления проектом" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="810" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="amfDj-KN_tgIPYr-u7H--6" value="Подсистема проектирования" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="amfDj-KN_tgIPYr-u7H--7" value="Подсистема конфигурирования" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="amfDj-KN_tgIPYr-u7H--8" value="&lt;b&gt;Система разработки&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#CFCFCF;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="244" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUBcDf7cxOTqARX0cfJc-1" value="&lt;b&gt;Система ПМО&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#CFCFCF;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="520" y="725" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TUBcDf7cxOTqARX0cfJc-3" value="&lt;b&gt;Целевая система&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="270" y="540" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TUBcDf7cxOTqARX0cfJc-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;b&gt;НАДСИСТЕМА&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="540" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TUBcDf7cxOTqARX0cfJc-5" value="&lt;b&gt;Система департамента inRights&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="870" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4Nm4sYpa5sEPBKx6ehOG" name="Проектная система">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="590" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-2" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;a href=&quot;https://viewer.diagrams.net/?page-id=4Nm4sYpa5sEPBKx6ehOG&amp;amp;highlight=0000ff&amp;amp;edit=_blank&amp;amp;layers=1&amp;amp;nav=1&amp;amp;page-id=4Nm4sYpa5sEPBKx6ehOG#HDmAlSorokin%2FTest_1%2Fmaster%2F%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(248, 249, 250); float: none; display: inline !important;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Проектная система&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(248, 249, 250); float: none; display: inline !important;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Подсистема управления проектом&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;Подсистема проектирования&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;Подсистема конфигурирования&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="493" y="115" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(248, 249, 250); float: none; display: inline !important;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Подсистема управления проектом&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-11" value="Модуль управления&amp;nbsp; проектными планами" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="317" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-12" value="Модуль Мониторинга и контроля" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="396" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-13" value="Модуль Управления изменениями" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="466" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="240" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-15" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(248, 249, 250); float: none; display: inline !important;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Подсистема&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;b style=&quot;&quot;&gt;проектирования&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-16" value="Модуль разработки архитектурных решений" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="317" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-17" value="Модуль разработки проектных документов" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="396" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-18" value="Модуль упр.&amp;nbsp; задачами разраб. и кофиг.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="466" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-23" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(248, 249, 250); float: none; display: inline !important;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Подсистема&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;b style=&quot;&quot;&gt;конфигурирования&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-24" value="Модуль конфигурирования" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="317" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-25" value="Модуль развёртывания" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="396" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="us4zM_0E3LgMJsc2vD-E-26" value="Модуль ОЭ" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="466" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="T8DHhpEj-WO6qOZWuzql" name="Описание орг. структура">
+    <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uicp_y48DodsPf8lMwBM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="390" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="ANviSjNSetl8OgtIBAVG-2" value="Управляющий комитет" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="196" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANviSjNSetl8OgtIBAVG-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Руководитель проекта&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="256" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANviSjNSetl8OgtIBAVG-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Архитектор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="256" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANviSjNSetl8OgtIBAVG-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Куратор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="256" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANviSjNSetl8OgtIBAVG-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Руководитель ПМО&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="196" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ANviSjNSetl8OgtIBAVG-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Заместитель директора департамента по производству&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="196" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ANviSjNSetl8OgtIBAVG-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="306" width="450" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ANviSjNSetl8OgtIBAVG-10" value="Участники от исполнителя" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="326" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANviSjNSetl8OgtIBAVG-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="486" width="450" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ANviSjNSetl8OgtIBAVG-12" value="Участники от Заказчика" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="506" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
